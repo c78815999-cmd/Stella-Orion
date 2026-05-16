@@ -1,0 +1,82 @@
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\StellaOrion.csproj.AssemblyReference.cache
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\MainWindow.baml
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\App.baml
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\MainWindow.g.cs
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\App.g.cs
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\Stella Orion_Content.g.cs
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\Stella Orion_MarkupCompile.cache
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\Stella Orion.g.resources
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\StellaOrion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\StellaOrion.AssemblyInfoInputs.cache
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\StellaOrion.AssemblyInfo.cs
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\StellaOrion.csproj.CoreCompileInputs.cache
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\Stella Orion.exe
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\Stella Orion.deps.json
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\Stella Orion.runtimeconfig.json
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\Stella Orion.dll
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\Stella Orion.pdb
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\WinRT.Runtime.dll
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.dll
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.xml
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\imges\Desktop\Stella Orion\bin\Debug\net10.0-windows10.0.17763.0\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\StellaOr.F45B76D5.Up2Date
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\Stella Orion.dll
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\refint\Stella Orion.dll
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\Stella Orion.pdb
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\StellaOrion.genruntimeconfig.cache
+C:\Users\imges\Desktop\Stella Orion\obj\Debug\net10.0-windows10.0.17763.0\ref\Stella Orion.dll
+C:\Users\imges\Desktop\Stella Orion\.build-check\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\imges\Desktop\Stella Orion\.build-check\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\imges\Desktop\Stella Orion\.build-check\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\imges\Desktop\Stella Orion\.build-check\Stella Orion.deps.json
+C:\Users\imges\Desktop\Stella Orion\.build-check\Stella Orion.runtimeconfig.json
+C:\Users\imges\Desktop\Stella Orion\.build-check\Stella Orion.dll
+C:\Users\imges\Desktop\Stella Orion\.build-check\Stella Orion.pdb
+C:\Users\imges\Desktop\Stella Orion\.build-check\Microsoft.Windows.SDK.NET.dll
+C:\Users\imges\Desktop\Stella Orion\.build-check\WinRT.Runtime.dll
+C:\Users\imges\Desktop\Stella Orion\.build-check\Microsoft.Web.WebView2.Core.dll
+C:\Users\imges\Desktop\Stella Orion\.build-check\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\imges\Desktop\Stella Orion\.build-check\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\imges\Desktop\Stella Orion\.build-check\Microsoft.Web.WebView2.Core.xml
+C:\Users\imges\Desktop\Stella Orion\.build-check\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\imges\Desktop\Stella Orion\.build-check\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\Stella Orion.exe
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\Stella Orion.deps.json
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\Stella Orion.runtimeconfig.json
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\Stella Orion.dll
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\Stella Orion.pdb
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\Microsoft.Windows.SDK.NET.dll
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\WinRT.Runtime.dll
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\Microsoft.Web.WebView2.Core.dll
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\Microsoft.Web.WebView2.Core.xml
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\imges\Desktop\Stella Orion\UpdatedBuild\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\imges\Desktop\Stella Orion\StableBuild\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\imges\Desktop\Stella Orion\StableBuild\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\imges\Desktop\Stella Orion\StableBuild\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\imges\Desktop\Stella Orion\StableBuild\Stella Orion.exe
+C:\Users\imges\Desktop\Stella Orion\StableBuild\Stella Orion.deps.json
+C:\Users\imges\Desktop\Stella Orion\StableBuild\Stella Orion.runtimeconfig.json
+C:\Users\imges\Desktop\Stella Orion\StableBuild\Stella Orion.dll
+C:\Users\imges\Desktop\Stella Orion\StableBuild\Stella Orion.pdb
+C:\Users\imges\Desktop\Stella Orion\StableBuild\Microsoft.Windows.SDK.NET.dll
+C:\Users\imges\Desktop\Stella Orion\StableBuild\WinRT.Runtime.dll
+C:\Users\imges\Desktop\Stella Orion\StableBuild\Microsoft.Web.WebView2.Core.dll
+C:\Users\imges\Desktop\Stella Orion\StableBuild\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\imges\Desktop\Stella Orion\StableBuild\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\imges\Desktop\Stella Orion\StableBuild\Microsoft.Web.WebView2.Core.xml
+C:\Users\imges\Desktop\Stella Orion\StableBuild\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\imges\Desktop\Stella Orion\StableBuild\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\imges\Desktop\Stella Orion\.build-check\Stella Orion.exe

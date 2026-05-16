@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvXHgNy6sOY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imges\\Desktop\\Stella Orion\\StellaOrion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imges\\.nuget\\packages\\microsoft.web.webview2\\1.0.3967.48\\microsoft.web.webview2.1.0.3967.48.nupkg.sha512",
+    "C:\\Users\\imges\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.57\\microsoft.windows.sdk.net.ref.10.0.17763.57.nupkg.sha512"
+  ],
+  "logs": []
+}
